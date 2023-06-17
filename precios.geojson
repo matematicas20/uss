@@ -1,42 +1,56 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-78.394463, -9.423334]
+ 'type': 'FeatureCollection',
+      'features': [
+        {
+          'type': 'Feature',
+          'properties': {
+            'image-name': 'popup-sin',
+            'Tipo-de-propiedad': 'LOTE VISTA AL PARQUE',
+            'Tipo-de-precio': 'C1-VP',
+            'precio': 'S/ 90000'
+          },
+          'geometry': {
+            'type': 'Point',
+            'coordinates': [-78.3932532, -9.421761 + 0.000550]
+          }
         },
-        "properties": {
-          "name": "Punto A",
-          "value1": 10,
-          "value2": 20
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [50, 0]
+        {
+          'type': 'Feature',
+          'properties': {
+            'image-name': 'popup-sin',
+            'Tipo-de-propiedad': 'LOTE VISTA INTERNA',
+            'Tipo-de-precio': 'C1-VI',
+            'precio': 'S/ 75000'
+          },
+          'geometry': {
+            'type': 'Point',
+            'coordinates': [-78.3932532, -9.421761 + 0.000180]
+          }
         },
-        "properties": {
-          "name": "Punto B",
-          "value1": 15,
-          "value2": 25
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-50, 0]
+        {
+          'type': 'Feature',
+          'properties': {
+            'image-name': 'popup-sin',
+            'Tipo-de-propiedad': 'LOTE ZONA COMERCIAL',
+            'Tipo-de-precio': 'C1-ZC',
+            'precio': 'S/ 75000'
+          },
+          'geometry': {
+            'type': 'Point',
+            'coordinates': [-78.3932532, -9.421761 - 0.000180]
+          }
         },
-        "properties": {
-          "name": "Punto C",
-          "value1": 8,
-          "value2": 12
+        {
+          'type': 'Feature',
+          'properties': {
+            'image-name': 'popup-sin',
+            'Tipo-de-propiedad': 'ESTACIONAMIENTO',
+            'Tipo-de-precio': 'C1-E1',
+            'precio': 'S/ 14000'
+          },
+          'geometry': {
+            'type': 'Point',
+            'coordinates': [-78.3932532, -9.421761 - 0.000550]
+          }
         }
-      }
-    ]
-  }
-  
+      ]
+    };
