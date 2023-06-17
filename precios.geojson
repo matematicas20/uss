@@ -1,57 +1,57 @@
 {
-      'type': 'FeatureCollection',
-      'features': [
-        {
-          'type': 'Feature',
-          'properties': {
-            'image-name': 'popup-sin',
-            'Tipo-de-propiedad': 'LOTE VISTA AL PARQUE',
-            'Tipo-de-precio': 'C1-VP',
-            'precio': 'S/ 90000'
-          },
-          'geometry': {
-            'type': 'Point',
-            'coordinates': [-78.3932532, -9.421761 + 0.000550]
-          }
-        },
-        {
-          'type': 'Feature',
-          'properties': {
-            'image-name': 'popup-sin',
-            'Tipo-de-propiedad': 'LOTE VISTA INTERNA',
-            'Tipo-de-precio': 'C1-VI',
-            'precio': 'S/ 75000'
-          },
-          'geometry': {
-            'type': 'Point',
-            'coordinates': [-78.3932532, -9.421761 + 0.000180]
-          }
-        },
-        {
-          'type': 'Feature',
-          'properties': {
-            'image-name': 'popup-sin',
-            'Tipo-de-propiedad': 'LOTE ZONA COMERCIAL',
-            'Tipo-de-precio': 'C1-ZC',
-            'precio': 'S/ 75000'
-          },
-          'geometry': {
-            'type': 'Point',
-            'coordinates': [-78.3932532, -9.421761 - 0.000180]
-          }
-        },
-        {
-          'type': 'Feature',
-          'properties': {
-            'image-name': 'popup-sin',
-            'Tipo-de-propiedad': 'ESTACIONAMIENTO',
-            'Tipo-de-precio': 'C1-E1',
-            'precio': 'S/ 14000'
-          },
-          'geometry': {
-            'type': 'Point',
-            'coordinates': [-78.3932532, -9.421761 - 0.000550]
-          }
-        }
-      ]
-    };
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "image-name": "popup-sin",
+        "Tipo-de-propiedad": "LOTE VISTA AL PARQUE",
+        "Tipo-de-precio": "C1-VP",
+        "precio": "S/ 90000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3932532, -9.421761 + 0.000550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image-name": "popup-sin",
+        "Tipo-de-propiedad": "LOTE VISTA INTERNA",
+        "Tipo-de-precio": "C1-VI",
+        "precio": "S/ 75000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3932532, -9.421761 + 0.000180]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image-name": "popup-sin",
+        "Tipo-de-propiedad": "LOTE ZONA COMERCIAL",
+        "Tipo-de-precio": "C1-ZC",
+        "precio": "S/ 75000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3932532, -9.421761 - 0.000180]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image-name": "popup-sin",
+        "Tipo-de-propiedad": "ESTACIONAMIENTO",
+        "Tipo-de-precio": "C1-E1",
+        "precio": "S/ 14000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3932532, -9.421761 - 0.000550]
+      }
+    }
+  ]
+}
