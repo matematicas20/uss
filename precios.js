@@ -2,7 +2,7 @@
   {
     "Condominio": "Condominio 1",
     "Tipo de Lote": "Lote vista interna",
-    "Precio": "S/ 300000"
+    "Precio": "S/ 450000"
   },
   {
     "Condominio": "Condominio 2",
