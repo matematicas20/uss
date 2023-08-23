@@ -1,31 +1,37 @@
 [
   {
     "Condominio": "Condominio 1",
+    "Tipo-de-precio": "C1-VI",
     "Tipo de Lote": "Lote vista interna",
     "Precio": "S/ 150,000"
   },
     {
     "Condominio": "Condominio 1",
+    "Tipo-de-precio": "C1-E1",
     "Tipo de Lote": "Estacionamiento",
     "Precio": "S/ 22,000"
   },
   {
     "Condominio": "Condominio 2",
+    "Tipo-de-precio": "C2-VP",
     "Tipo de Lote": "Lote vista al parque",
     "Precio": "S/ 90,000"
   },
   {
     "Condominio": "Condominio 2",
+    "Tipo-de-precio": "C2-VI",
     "Tipo de Lote": "Lote vista interna",
     "Precio": "S/ 75,000"
   },
   {
     "Condominio": "Condominio 2",
+    "Tipo-de-precio": "C2-ZC",
     "Tipo de Lote": "Lote comercial",
     "Precio": "S/ 200,000"
   },
   {
     "Condominio": "Condominio 2",
+    "Tipo-de-precio": "C2-E1",
     "Tipo de Lote": "Estacionamiento",
     "Precio": "S/ 14,000"
   },
