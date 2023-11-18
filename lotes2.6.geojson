@@ -1,12 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "lotes2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
@@ -18,7 +11,7 @@
         "Vendedor": null,
         "Propietario": "x",
         "Area": "160m²",
-        "Estado": "Vendido",
+        "Estado": "Disponible",
         "Tipo": null,
         "Ubicacion": null,
         "Tipo-de-precio": "C2-VP"
