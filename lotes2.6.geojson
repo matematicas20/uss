@@ -1,5 +1,12 @@
 {
   "type": "FeatureCollection",
+  "name": "lotes2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
@@ -50,13 +57,13 @@
       "type": "Feature",
       "properties": {
         "id": "2",
-        "Condominio": "2",
-        "Manzana": "A",
-        "Lote": "2",
+        "Condominio": "2222",
+        "Manzana": "AAAA",
+        "Lote": "222",
         "Vendedor": null,
         "Propietario": "x",
-        "Area": "160m²",
-        "Estado": "Vendido",
+        "Area": "60m²",
+        "Estado": "Disponible",
         "Tipo": null,
         "Ubicacion": null,
         "Tipo-de-precio": "C2-VP"
