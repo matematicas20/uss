@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "vereda10",
+"name": "vereda1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.398468905873486, -9.422889225109712 ], [ -78.397332210835998, -9.422226071521152 ], [ -78.397309006381974, -9.42226463367474 ], [ -78.398469090009129, -9.422940657706103 ], [ -78.398468905873486, -9.422889225109712 ] ] ] ] } },
