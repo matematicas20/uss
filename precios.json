@@ -2,8 +2,8 @@
   {
     "Condominio": "Condominio 1",
     "Tipo-de-precio": "C1-VI",
-    "Tipo de Lote": "Lote vista interna",
-    "Precio": "S/ 120,000"
+    "Tipo de Lote": "Lote",
+    "Precio": "S/ 150,000"
   },
     {
     "Condominio": "Condominio 1",
@@ -20,20 +20,20 @@
   {
     "Condominio": "Condominio 2",
     "Tipo-de-precio": "C2-VI",
-    "Tipo de Lote": "Lote vista interna",
-    "Precio": "S/ 75,000"
+    "Tipo de Lote": "Lote",
+    "Precio": "S/ 90,000"
   },
   {
     "Condominio": "Condominio 2",
     "Tipo-de-precio": "C2-ZC",
     "Tipo de Lote": "Lote comercial",
-    "Precio": "S/ 200,000"
+    "Precio": "S/ 210,000"
   },
   {
     "Condominio": "Condominio 2",
     "Tipo-de-precio": "C2-E1",
     "Tipo de Lote": "Estacionamiento",
-    "Precio": "S/ 14,000"
+    "Precio": "S/ 18,000"
   },
   {
     "Condominio": "Condominio 3",
@@ -42,7 +42,7 @@
   },
   {
     "Condominio": "Condominio 3",
-    "Tipo de Lote": "Lote vista interna",
+    "Tipo de Lote": "Lote",
     "Precio": "S/ Proximamente"
   },
   {
