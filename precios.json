@@ -12,8 +12,8 @@
     "Tipo-de-precio": "C1-E1",
     "Tipo de Lote": "Estacionamiento",
     "Precio Hoy": "S/ 28,000",
-    "Precio Entrega": "S/ 28,000"
-    "Fecha de entrega": "Diciembre 2023",
+    "Precio Entrega": "S/ 28,000",
+    "Fecha de entrega": "Diciembre 2023"
   },
 
  {
@@ -45,7 +45,7 @@
     "Tipo-de-precio": "C1-E1",
     "Tipo de Lote": "Estacionamiento",
     "Precio Hoy": "S/ 18,000",
-    "Precio Entrega": "S/ 28,000"
+    "Precio Entrega": "S/ 28,000",
     "Fecha de entrega":  "Agosto 2024"
   },
 
@@ -64,7 +64,7 @@
      "Precio Hoy": "S/ 210,000",
     "Precio Entrega": "S/ 300,000",
     "Fecha de entrega": "Agosto 2024"
-  },
+  }
 
 
 
