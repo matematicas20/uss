@@ -19,7 +19,7 @@
 
     {
     "Condominio": "Condominio 1",
-    "Tipo-de-precio": "x",
+    "Tipo-de-precio": "C1-E1",
     "Tipo de Lote": "Lote + Estacionamiento",
     "Precio": "S/ 120,000",  
     "Precio Entrega": "S/ 180,000",
@@ -49,6 +49,17 @@
     "Tipo de Lote": "Estacionamiento",
     "Precio": "S/ 14,000"
   },
+
+{
+    "Condominio": "Condominio 2",
+    "Tipo-de-precio": "C1-E1",
+    "Tipo de Lote": "Lote + Estacionamiento",
+    "Precio": "S/ 120,000",  
+    "Precio Entrega": "S/ 180,000",
+    "Fecha de entrega": "Diciembre 2023"
+  },
+
+  
   {
     "Condominio": "Condominio 3",
     "Tipo de Lote": "Lote vista al parque",
