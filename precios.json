@@ -5,21 +5,21 @@
       "Tipo de Lote": "LOTE",
       "Precio": "S/ 150,000",
       "Precio Entrega": "S/ 180,000",
-      "Fecha de entrega": "MARZO 2024"
+      "Fecha de entrega": "ENERO 2024"
     },
     {
       "Tipo-de-precio": "C1-E1",
       "Tipo de Lote": "ESTACIONAMIENTO",
       "Precio": "S/ 28,000",
       "Precio Entrega": "S/ 28,000",
-      "Fecha de entrega": "MARZO 2024"
+      "Fecha de entrega": "ENERO 2024"
     },
     {
       "Tipo-de-precio": "C1-E1",
       "Tipo de Lote": "LOTE + ESTACIONAMIENTO",
       "Precio": "S/ 155,000",
       "Precio Entrega": "S/ 208,000",
-      "Fecha de entrega": "MARZO 2024"
+      "Fecha de entrega": "ENERO 2024"
     }
   ],
 
